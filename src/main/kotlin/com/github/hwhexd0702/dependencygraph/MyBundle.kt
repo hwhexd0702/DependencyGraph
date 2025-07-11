@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.hwhexd0702.dependencygraph
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
